@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Day 15: LazyColumn -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="320dp"
+    android:height="180dp"
+    android:viewportWidth="320"
+    android:viewportHeight="180">
+    <path
+        android:fillColor="@color/illo_bg_mint"
+        android:pathData="M0,0h320v180h-320z" />
+    <path
+        android:strokeColor="@color/illo_deco"
+        android:strokeWidth="5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:strokeAlpha="0.55"
+        android:pathData="M31,50L49,50" />
+    <path
+        android:strokeColor="@color/illo_deco"
+        android:strokeWidth="5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:strokeAlpha="0.55"
+        android:pathData="M40,41L40,59" />
+    <path
+        android:fillColor="@color/illo_deco"
+        android:fillAlpha="0.55"
+        android:pathData="M25,118a5,5 0 1 0 10,0a5,5 0 1 0 -10,0z" />
+    <path
+        android:fillColor="@color/illo_deco"
+        android:fillAlpha="0.55"
+        android:pathData="M41,140a9,9 0 1 0 18,0a9,9 0 1 0 -18,0z" />
+    <path
+        android:strokeColor="@color/illo_deco"
+        android:strokeWidth="4"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:strokeAlpha="0.55"
+        android:pathData="M269,58a13,13 0 1 0 26,0a13,13 0 1 0 -26,0z" />
+    <path
+        android:fillColor="@color/illo_deco"
+        android:fillAlpha="0.55"
+        android:pathData="M265,132a7,7 0 1 0 14,0a7,7 0 1 0 -14,0z" />
+    <path
+        android:fillColor="#000000"
+        android:fillAlpha="0.12"
+        android:pathData="M94,24h132a14,14 0 0 1 14,14v112a14,14 0 0 1 -14,14h-132a14,14 0 0 1 -14,-14v-112a14,14 0 0 1 14,-14z" />
+    <path
+        android:fillColor="@color/illo_paper"
+        android:pathData="M94,20h132a14,14 0 0 1 14,14v112a14,14 0 0 1 -14,14h-132a14,14 0 0 1 -14,-14v-112a14,14 0 0 1 14,-14z" />
+    <path
+        android:fillColor="@color/illo_primary"
+        android:pathData="M101,50a9,9 0 1 0 18,0a9,9 0 1 0 -18,0z" />
+    <path
+        android:fillColor="@color/illo_ink"
+        android:pathData="M129,43h58a3,3 0 0 1 3,3v0a3,3 0 0 1 -3,3h-58a3,3 0 0 1 -3,-3v0a3,3 0 0 1 3,-3z" />
+    <path
+        android:fillColor="@color/illo_muted"
+        android:pathData="M128.5,53h39a2.5,2.5 0 0 1 2.5,2.5v0a2.5,2.5 0 0 1 -2.5,2.5h-39a2.5,2.5 0 0 1 -2.5,-2.5v0a2.5,2.5 0 0 1 2.5,-2.5z" />
+    <path
+        android:fillColor="@color/illo_accent"
+        android:pathData="M101,76a9,9 0 1 0 18,0a9,9 0 1 0 -18,0z" />
+    <path
+        android:fillColor="@color/illo_ink"
+        android:pathData="M129,69h58a3,3 0 0 1 3,3v0a3,3 0 0 1 -3,3h-58a3,3 0 0 1 -3,-3v0a3,3 0 0 1 3,-3z" />
+    <path
+        android:fillColor="@color/illo_muted"
+        android:pathData="M128.5,79h39a2.5,2.5 0 0 1 2.5,2.5v0a2.5,2.5 0 0 1 -2.5,2.5h-39a2.5,2.5 0 0 1 -2.5,-2.5v0a2.5,2.5 0 0 1 2.5,-2.5z" />
+    <path
+        android:fillColor="@color/illo_green"
+        android:pathData="M101,102a9,9 0 1 0 18,0a9,9 0 1 0 -18,0z" />
+    <path
+        android:fillColor="@color/illo_ink"
+        android:pathData="M129,95h58a3,3 0 0 1 3,3v0a3,3 0 0 1 -3,3h-58a3,3 0 0 1 -3,-3v0a3,3 0 0 1 3,-3z" />
+    <path
+        android:fillColor="@color/illo_muted"
+        android:pathData="M128.5,105h39a2.5,2.5 0 0 1 2.5,2.5v0a2.5,2.5 0 0 1 -2.5,2.5h-39a2.5,2.5 0 0 1 -2.5,-2.5v0a2.5,2.5 0 0 1 2.5,-2.5z" />
+    <path
+        android:fillColor="@color/illo_primary"
+        android:fillAlpha="0.4"
+        android:pathData="M101,128a9,9 0 1 0 18,0a9,9 0 1 0 -18,0z" />
+    <path
+        android:fillColor="@color/illo_ink"
+        android:fillAlpha="0.4"
+        android:pathData="M129,121h58a3,3 0 0 1 3,3v0a3,3 0 0 1 -3,3h-58a3,3 0 0 1 -3,-3v0a3,3 0 0 1 3,-3z" />
+    <path
+        android:fillColor="@color/illo_muted"
+        android:fillAlpha="0.4"
+        android:pathData="M128.5,131h39a2.5,2.5 0 0 1 2.5,2.5v0a2.5,2.5 0 0 1 -2.5,2.5h-39a2.5,2.5 0 0 1 -2.5,-2.5v0a2.5,2.5 0 0 1 2.5,-2.5z" />
+    <path
+        android:fillColor="@color/illo_muted"
+        android:pathData="M216,42h0a2,2 0 0 1 2,2v92a2,2 0 0 1 -2,2h0a2,2 0 0 1 -2,-2v-92a2,2 0 0 1 2,-2z" />
+    <path
+        android:fillColor="@color/illo_ink"
+        android:pathData="M216,42h0a2,2 0 0 1 2,2v32a2,2 0 0 1 -2,2h0a2,2 0 0 1 -2,-2v-32a2,2 0 0 1 2,-2z" />
+</vector>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App icon -->
+    <color name="ic_launcher_background">#4355B9</color>
+
+    <!-- Colors of the tip images (drawable/day_01 ... day_30). values-night has their dark versions -->
+    <!-- A little deeper than primaryContainer, so the image stays visible on an expanded card -->
+    <color name="illo_bg_indigo">#C9CEFF</color>
+    <color name="illo_bg_amber">#FFDCBE</color>
+    <color name="illo_bg_mint">#C9F1DD</color>
+    <color name="illo_deco">#FFFFFF</color>
+    <color name="illo_paper">#FFFFFF</color>
+    <color name="illo_ink">#1B1B1F</color>
+    <color name="illo_muted">#C7C5D0</color>
+    <color name="illo_primary">#4355B9</color>
+    <color name="illo_accent">#F28B30</color>
+    <color name="illo_green">#1E9E63</color>
+</resources>

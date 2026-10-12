@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Day 10: State -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="320dp"
+    android:height="180dp"
+    android:viewportWidth="320"
+    android:viewportHeight="180">
+    <path
+        android:fillColor="@color/illo_bg_indigo"
+        android:pathData="M0,0h320v180h-320z" />
+    <path
+        android:fillColor="@color/illo_deco"
+        android:fillAlpha="0.55"
+        android:pathData="M28,42a10,10 0 1 0 20,0a10,10 0 1 0 -20,0z" />
+    <path
+        android:strokeColor="@color/illo_deco"
+        android:strokeWidth="4"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:strokeAlpha="0.55"
+        android:pathData="M38,130a12,12 0 1 0 24,0a12,12 0 1 0 -24,0z" />
+    <path
+        android:fillColor="@color/illo_deco"
+        android:fillAlpha="0.55"
+        android:pathData="M266,130a6,6 0 1 0 12,0a6,6 0 1 0 -12,0z" />
+    <path
+        android:fillColor="@color/illo_deco"
+        android:fillAlpha="0.55"
+        android:pathData="M288,148a4,4 0 1 0 8,0a4,4 0 1 0 -8,0z" />
+    <path
+        android:strokeColor="@color/illo_deco"
+        android:strokeWidth="5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:strokeAlpha="0.55"
+        android:pathData="M273,48L291,48" />
+    <path
+        android:strokeColor="@color/illo_deco"
+        android:strokeWidth="5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:strokeAlpha="0.55"
+        android:pathData="M282,39L282,57" />
+    <path
+        android:fillColor="#000000"
+        android:fillAlpha="0.12"
+        android:pathData="M94,24h132a14,14 0 0 1 14,14v112a14,14 0 0 1 -14,14h-132a14,14 0 0 1 -14,-14v-112a14,14 0 0 1 14,-14z" />
+    <path
+        android:fillColor="@color/illo_paper"
+        android:pathData="M94,20h132a14,14 0 0 1 14,14v112a14,14 0 0 1 -14,14h-132a14,14 0 0 1 -14,-14v-112a14,14 0 0 1 14,-14z" />
+    <path
+        android:fillColor="@color/illo_bg_indigo"
+        android:pathData="M109,42h102a9,9 0 0 1 9,9v28a9,9 0 0 1 -9,9h-102a9,9 0 0 1 -9,-9v-28a9,9 0 0 1 9,-9z" />
+    <path
+        android:fillColor="@color/illo_primary"
+        android:pathData="M120.5,53h0a4.5,4.5 0 0 1 4.5,4.5v15a4.5,4.5 0 0 1 -4.5,4.5h0a4.5,4.5 0 0 1 -4.5,-4.5v-15a4.5,4.5 0 0 1 4.5,-4.5z" />
+    <path
+        android:fillColor="@color/illo_primary"
+        android:pathData="M136.5,53h0a4.5,4.5 0 0 1 4.5,4.5v15a4.5,4.5 0 0 1 -4.5,4.5h0a4.5,4.5 0 0 1 -4.5,-4.5v-15a4.5,4.5 0 0 1 4.5,-4.5z" />
+    <path
+        android:fillColor="@color/illo_primary"
+        android:pathData="M152.5,53h0a4.5,4.5 0 0 1 4.5,4.5v15a4.5,4.5 0 0 1 -4.5,4.5h0a4.5,4.5 0 0 1 -4.5,-4.5v-15a4.5,4.5 0 0 1 4.5,-4.5z" />
+    <path
+        android:fillColor="@color/illo_muted"
+        android:pathData="M168.5,53h0a4.5,4.5 0 0 1 4.5,4.5v15a4.5,4.5 0 0 1 -4.5,4.5h0a4.5,4.5 0 0 1 -4.5,-4.5v-15a4.5,4.5 0 0 1 4.5,-4.5z" />
+    <path
+        android:fillColor="@color/illo_muted"
+        android:pathData="M184.5,53h0a4.5,4.5 0 0 1 4.5,4.5v15a4.5,4.5 0 0 1 -4.5,4.5h0a4.5,4.5 0 0 1 -4.5,-4.5v-15a4.5,4.5 0 0 1 4.5,-4.5z" />
+    <path
+        android:fillColor="@color/illo_muted"
+        android:pathData="M200.5,53h0a4.5,4.5 0 0 1 4.5,4.5v15a4.5,4.5 0 0 1 -4.5,4.5h0a4.5,4.5 0 0 1 -4.5,-4.5v-15a4.5,4.5 0 0 1 4.5,-4.5z" />
+    <path
+        android:fillColor="@color/illo_muted"
+        android:pathData="M111,118a17,17 0 1 0 34,0a17,17 0 1 0 -34,0z" />
+    <path
+        android:strokeColor="@color/illo_paper"
+        android:strokeWidth="4"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M120,118L136,118" />
+    <path
+        android:fillColor="@color/illo_accent"
+        android:pathData="M175,118a17,17 0 1 0 34,0a17,17 0 1 0 -34,0z" />
+    <path
+        android:strokeColor="@color/illo_paper"
+        android:strokeWidth="4"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M184,118L200,118" />
+    <path
+        android:strokeColor="@color/illo_paper"
+        android:strokeWidth="4"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M192,110L192,126" />
+</vector>

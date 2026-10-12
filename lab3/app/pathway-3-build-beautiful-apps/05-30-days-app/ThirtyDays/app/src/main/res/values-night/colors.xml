@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Dark versions of the colors of the tip images -->
+    <color name="illo_bg_indigo">#1E2A6B</color>
+    <color name="illo_bg_amber">#4F2E05</color>
+    <color name="illo_bg_mint">#0E3F2D</color>
+    <color name="illo_deco">#000000</color>
+    <color name="illo_paper">#2B2B31</color>
+    <color name="illo_ink">#E5E1E6</color>
+    <color name="illo_muted">#5B5D72</color>
+    <color name="illo_primary">#BAC3FF</color>
+    <color name="illo_accent">#FFB870</color>
+    <color name="illo_green">#6FDBA8</color>
+</resources>
