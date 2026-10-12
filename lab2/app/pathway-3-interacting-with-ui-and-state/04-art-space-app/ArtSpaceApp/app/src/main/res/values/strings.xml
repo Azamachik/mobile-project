@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Art Space App</string>
+
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+
+    <string name="artist">Azamat Karimov</string>
+
+    <string name="artwork_1_title">Two Circles</string>
+    <string name="artwork_1_year">2021</string>
+    <string name="artwork_1_description">Red and blue circles</string>
+
+    <string name="artwork_2_title">Two Squares</string>
+    <string name="artwork_2_year">2023</string>
+    <string name="artwork_2_description">Green and orange squares</string>
+
+    <string name="artwork_3_title">Two Triangles</string>
+    <string name="artwork_3_year">2025</string>
+    <string name="artwork_3_description">Purple and teal triangles</string>
+</resources>
